@@ -1,0 +1,8 @@
+.env
+data/
+/bin/
+*.exe
+go.work
+go.work.sum
+.venv/
+__pycache__/
